@@ -12,9 +12,6 @@ ___
 * methodology [BEM](https://en.bem.info/)
 ___
 #### :envelope: Contacts
-* LinkedIn: [@vlad-yermolayev](https://www.linkedin.com/in/vlad-yermolayev/)
-* Telegram: [@vlad_yermolayev](https://t.me/vlad_yermolayev)
-* Facebook: [@vlad.yermolayev](https://www.facebook.com/vlad.yermolayev/)
-* Instagram: [@vlad_yermolayev](https://www.instagram.com/vlad_yermolayev/)
-* VK: [@vlad_yermolayev](https://vk.com/vlad_yermolayev)
-* Twitter: [@vlad_yermolayev](https://twitter.com/vlad_yermolayev)
+* LinkedIn: [@aleksandr-kyrylchuk](https://www.linkedin.com/in/aleksandr-kyrylchuk-382918224/)
+* Telegram: [@aleksandr-kyrylchuk](https://t.me/aleksandr_kyrylchuk)
+* Facebook: [@aleksandr-kyrylchuk](https://www.facebook.com/profile.php?id=100001658841834)
