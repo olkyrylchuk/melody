@@ -1,4 +1,4 @@
-## :pushpin: Travel blog
+## :pushpin:  ЖК Мелодия
 #### :memo: Description: 
 Home page of ЖК Мелодия (CSS Grid practice).
 ___
